@@ -19,9 +19,8 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  mathsqrt(81)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  7+((43*23)/83))#Hint:  __ + (( __ * __ ) / __ )
+#Hint:  __ + (( __ * __ ) / __ )
 end
